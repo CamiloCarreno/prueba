@@ -1,2 +1,2 @@
 # prueba
-Prueba de GITHUB
+Prueba de GIT
